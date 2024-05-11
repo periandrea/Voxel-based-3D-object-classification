@@ -19,3 +19,8 @@ solution to tackle this problem, introducing a hybrid cascade
 network composed of a multilayer perceptron and the Orion
 architecture. We show that this approach is effective in reaching
 lower inference time while maintaning a high accuracy.
+
+Reference papers:
+D. Maturana and S. Scherer, "VoxNet: A 3D Convolutional Neural Network for real-time object recognition," 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hamburg, Germany, 2015, pp. 922-928, doi: 10.1109/IROS.2015.7353481.
+N. Sedaghat, M. Zolfaghari, E. Amiri, T. Brox, "Orientation-boosted Voxel Nets for 3D Object Recognition", doi: arXiv.1604.03351
+J. Luo, H. Cao, J. Wang, S. Zhang, S. Cai, "A Fast Hybrid Cascade Network for Voxel-based 3D Object Classification, doi: arXiv.2011.04522
